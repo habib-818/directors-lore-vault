@@ -1,0 +1,11 @@
+# Ignore the heavy Vector Database folders
+lore_vault_db/
+*vaultdb/
+
+# Ignore Python system files
+__pycache__/
+*.pyc
+
+# Ignore your rehearsal test scripts
+01_5chapters_scripts.py
+*chapter*.py
